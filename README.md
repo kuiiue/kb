@@ -6,9 +6,9 @@ the public part of the kb project.
 the content of which is like: {"group":["photo1.jpg", "photo2.jpg"]}
 ### startday
 useless normally
-###index.php
+### index.php
 determine to display the list or show the pictures
-###list.php
+### list.php
 show the list of the groups in data.json
-###read.php
+### read.php
 display the photos of the chosen group in data.json
