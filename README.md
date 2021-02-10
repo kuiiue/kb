@@ -1,5 +1,5 @@
 # kb
-the public part of the kb project
+the public part of the kb project. 
 **the code here has been modified in order to hide private information**
 ## usage
 ### data.json
