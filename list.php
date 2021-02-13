@@ -19,4 +19,7 @@ function display_group(){
 	<div style="font-size: 26px;text-align: center;font-weight: bold;">
 		<?php display_group();?>
 	</div>
+	<div style="text-align: center;">
+		<a href="https://github.com/unidee/kb/" target="_blank" style="color: #00AAFF;text-decoration: none;">版权所有 &copy; 2021</a>
+	</div>
 </body>
