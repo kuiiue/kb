@@ -28,6 +28,8 @@ if($during<0) $week=1;
 		<button style="width: 30%;" onclick="thisweek()">查看本周课表</button>
 	</div>
 	<img src="" id="img" style="width: 100%;margin-top: 10px;margin-bottom: 10px;" onclick="picture()">
+	<br><br>
+	<a href="https://github.com/unidee/kb/" target="_blank" style="color: #00AAFF;text-decoration: none;">版权所有 &copy; 2021</a>
 </div>
 
 <script type="text/javascript">
