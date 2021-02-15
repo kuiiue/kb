@@ -1,14 +1,14 @@
-# kb
-the public part of the kb project.   
-**the code here has been modified in order to hide private information.**
-## files
+# 课表？
+分组相册浏览端。在这里是图片课表浏览端。   
+**管理端和相关信息已从代码中隐去。**
+## 文件用处
 ### data.json
-the content of which is like: {"group":["photo1.jpg", "photo2.jpg"]}
+其内容格式为: {"group":["photo1.jpg", "photo2.jpg"]}
 ### startday
-useless normally
+基本没用
 ### index.php
-determine to display the list or show the pictures
+主页。显示列表或内容页。
 ### list.php
-show the list of the groups in data.json
+列出data.json中所有的组名（在这里是学期）供选择。
 ### read.php
-display the photos of the chosen group in data.json
+根据选择的组名（学期）浏览其中的图片（课表）。
