@@ -4,16 +4,6 @@
 
 *注: 管理端和相关信息已从代码中隐去*
 
-## 文件用处 
-
-### data.json 
-
-其内容格式为: ``{"group":["photo1.jpg", "photo2.jpg"]}`` 
-
-### startday 
-
-基本没用 
-
 ### index.php 
 
 主页。显示列表或内容页。 
